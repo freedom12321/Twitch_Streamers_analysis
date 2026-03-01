@@ -4,7 +4,23 @@
 This project is my Codédex February 2026 Dataset Challenge submission for Best Storyteller / Best Visualization. It digs into 3,051,733 Twitch streamer interactions to answer a deceptively simple question: *what really makes viewers come back?* By pairing a reproducible pipeline with publication-ready visuals, we uncover how global variety multiplies loyalty.
 
 ## Dataset Source
-- **Twitch Streamers Live Data (2025 Update)** – originally shared on Kaggle by community contributor(s). The raw CSV (`data/raw/Twitch Live-Streaming Interactions Dataset.csv`) includes anonymized stream session IDs, channel logins, and ranked viewer engagement.
+- **Twitch Streamers Live Data ** – ## 
+
+Due to GitHub’s 100MB file size limit, the original raw dataset is not stored directly in this repository.
+
+The dataset used in this analysis can be downloaded from:
+
+[https://www.kaggle.com/datasets/volodymyrpivoshenko/twitch-live-streaming-interactions-dataset]
+
+After downloading, place the file inside:
+
+data/raw/
+
+Then run:
+
+python clean_data.py
+
+This will generate the cleaned dataset required for the analysis.
 
 ## Repository Structure
 ```
