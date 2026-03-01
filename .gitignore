@@ -1,0 +1,4 @@
+
+# ignore large datasets
+data/raw/*.csv
+data/cleaned.csv
