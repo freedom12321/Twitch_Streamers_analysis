@@ -1,7 +1,7 @@
 # Loyalty Loop: Twitch Audience Diversity Story
 
 ## Project Overview
-This project is my Codédex February 2026 Dataset Challenge submission for Best Storyteller / Best Visualization. It digs into 3,051,733 Twitch streamer interactions to answer a deceptively simple question: *what really makes viewers come back?* By pairing a reproducible pipeline with publication-ready visuals, we uncover how global variety multiplies loyalty.
+This project is my Codédex February 2026 Dataset Challenge submission. It digs into 3,051,733 Twitch streamer interactions to answer a deceptively simple question: *what really makes viewers come back?* By pairing a reproducible pipeline with publication-ready visuals, we uncover how global variety multiplies loyalty.
 
 ## Dataset Source
 - **Twitch Streamers Data** – 
