@@ -46,7 +46,6 @@ This project is my Codédex February 2026 Dataset Challenge submission for Best 
 ![Superfan Dependency](figures/top_fan_dependency.png)
 ![Viewer Fragmentation](figures/viewer_channel_spread.png)
 ![Scale vs Loyalty](figures/loyalty_vs_scale_scatter.png)
-![Coin Badge](figures/coin_logo.png)
 
 ## Limitations
 - The dataset captures a slice of 2025 Twitch behavior; it does not include monetization or genre metadata, so we approximate loyalty via interactions per viewer.
