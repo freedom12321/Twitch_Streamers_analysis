@@ -4,7 +4,7 @@
 This project is my Codédex February 2026 Dataset Challenge submission for Best Storyteller / Best Visualization. It digs into 3,051,733 Twitch streamer interactions to answer a deceptively simple question: *what really makes viewers come back?* By pairing a reproducible pipeline with publication-ready visuals, we uncover how global variety multiplies loyalty.
 
 ## Dataset Source
-- **Twitch Streamers Live Data ** – 
+- **Twitch Streamers Data** – 
 
 Due to GitHub’s 100MB file size limit, the original raw dataset is not stored directly in this repository.
 
